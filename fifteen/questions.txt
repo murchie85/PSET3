@@ -1,0 +1,10 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0. DIM_MIN and DIM_MAX constants are 3 and 9 respectively. This means the side of the board can be 
+3 to 9 units. 
+1. A two dimensional array structure
+2. The greet function prototype is called
+3. init(), draw(), move(), won()
